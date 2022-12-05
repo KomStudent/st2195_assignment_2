@@ -1,2 +1,2 @@
-# st2195_assignment_2
+# ST2195 ASSIGNMENT #2
 Programming for Data Science Assignment #2
